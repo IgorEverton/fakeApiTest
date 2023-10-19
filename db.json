@@ -1,7 +1,7 @@
-{[
+[
   {
     "id": "1",
-    "name":"REACT",
+    "name": "REACT",
     "summary": {
       "initialInput": "TESTE INPUT INICIAL SUMMARY",
       "finalInput": "TESTE INPUT FINAL SUMMARY"
@@ -33,7 +33,7 @@
   },
   {
     "id": "2",
-    "name":"C#",
+    "name": "C#",
     "summary": {
       "initialInput": "TESTE INPUT INICIAL SUMMARY 2",
       "finalInput": "TESTE INPUT FINAL SUMMARY 2"
@@ -61,7 +61,6 @@
     "pendency": {
       "initialInput": "TESTE INPUT INICIAL DE PENDENCIA 2",
       "finalInput": "TESTE INPUT FINAL DE PENDENCIA 2"
-    },
+    }
   }
 ]
-
